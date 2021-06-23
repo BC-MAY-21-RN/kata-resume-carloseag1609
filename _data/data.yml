@@ -7,19 +7,19 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
+  name: Carlos Eduardo Aguirre García # Nombre completo
   tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
-  avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
+  avatar: me.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: carloseag1233@gmail.com
+  phone: 3121348172
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
+  linkedin: 
+  github: https://github.com/carloseag1609
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: 
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -31,9 +31,6 @@ sidebar:
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-
-    - idiom: German
-      level: Colloquial
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
